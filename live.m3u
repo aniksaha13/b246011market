@@ -375,7 +375,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/bQOQVXf.jpeg" group-title="Movie",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Movie",SRK Tv
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/0sxUwBQ.png" group-title="Movie",SRK Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Movie",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
