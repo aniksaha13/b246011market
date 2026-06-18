@@ -385,7 +385,7 @@ http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",Go live-FiFa
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",TSN-1 FiFa
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WJS9M9E.png" group-title="sports",TSN-1 FiFa
 https://soccerball.st/s1.php
 
 
